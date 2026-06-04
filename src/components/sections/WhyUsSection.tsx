@@ -59,7 +59,7 @@ export default function WhyUsSection() {
             <span className="text-gradient">Partner With Us</span>
           </h2>
           <p className="text-lg text-navy-500 max-w-2xl mx-auto leading-relaxed">
-            We're not just another agency. We're your dedicated growth partner
+            We&apos;re not just another agency. We&apos;re your dedicated growth partner
             committed to your long-term success.
           </p>
         </motion.div>

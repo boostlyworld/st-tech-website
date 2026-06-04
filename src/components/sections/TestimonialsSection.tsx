@@ -71,7 +71,7 @@ export default function TestimonialsSection() {
             <span className="text-gradient">Say</span>
           </h2>
           <p className="text-lg text-navy-500 max-w-2xl mx-auto leading-relaxed">
-            Don't take our word for it. Here's what business leaders who've
+            Don&apos;t take our word for it. Here&apos;s what business leaders who&apos;ve
             worked with us have experienced firsthand.
           </p>
         </motion.div>
