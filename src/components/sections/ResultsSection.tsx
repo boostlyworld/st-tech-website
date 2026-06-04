@@ -116,8 +116,8 @@ export default function ResultsSection() {
             <span className="text-gradient">Speak For Themselves</span>
           </h2>
           <p className="text-lg text-navy-500 max-w-2xl mx-auto leading-relaxed">
-            Numbers don&apos;t lie. Here's what our partners have achieved working
-            with the GrowthLab team.
+            Numbers don&apos;t lie. Here&apos;s what our partners have achieved working
+            with the S&T Tech team.
           </p>
         </motion.div>
 
