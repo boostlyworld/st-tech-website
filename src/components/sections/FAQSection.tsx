@@ -78,8 +78,7 @@ export default function FAQSection() {
             <span className="text-gradient">Questions</span>
           </h2>
           <p className="text-lg text-navy-500 max-w-xl mx-auto leading-relaxed">
-            Everything you need to know about working with GrowthLab. Can't find
-            what you're looking for?{" "}
+            Everything you need to know about working with GrowthLab. Can&apos;t find what you&apos;re looking for?{" "}
             <a href="#contact" className="text-primary-600 font-semibold hover:underline">
               Ask us directly.
             </a>
@@ -119,7 +118,7 @@ export default function FAQSection() {
             <a href="#contact" className="text-primary-600 font-semibold hover:underline">
               Book a free consultation
             </a>{" "}
-            and we'll answer everything.
+            We&apos;ll answer everything.
           </p>
         </motion.div>
       </div>
