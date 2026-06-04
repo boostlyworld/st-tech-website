@@ -73,16 +73,6 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <head>
         <link rel="icon" href="/logo.png" type="image/png" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link
-          rel="preconnect"
-          href="https://fonts.gstatic.com"
-          crossOrigin="anonymous"
-        />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap"
-          rel="stylesheet"
-        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{

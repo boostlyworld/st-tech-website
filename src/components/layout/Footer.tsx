@@ -1,4 +1,4 @@
-import { Zap, Twitter, Linkedin, Facebook, Instagram, Mail, Phone, MapPin, ArrowRight } from "lucide-react";
+import { Twitter, Linkedin, Facebook, Instagram, Mail, Phone, MapPin, ArrowRight } from "lucide-react";
 import Image from "next/image";
 
 const footerLinks = {
