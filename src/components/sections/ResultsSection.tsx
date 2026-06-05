@@ -41,7 +41,7 @@ function StatCard({ value, suffix, prefix = "", label, description, delay }: Sta
 
 const stats = [
   {
-    value: 150,
+    value: 65,
     suffix: "+",
     label: "Projects Delivered",
     description: "Across web, marketing, and growth campaigns worldwide",
@@ -55,8 +55,8 @@ const stats = [
     delay: 0.1,
   },
   {
-    value: 10,
-    suffix: "M+",
+    value: 50,
+    suffix: "K+",
     prefix: "$",
     label: "Ad Spend Managed",
     description: "In Google, Meta, and programmatic campaigns",
@@ -74,7 +74,7 @@ const stats = [
 const caseStudies = [
   {
     company: "TechFlow SaaS",
-    result: "+312% organic traffic",
+    result: "+212% organic traffic",
     service: "SEO Optimization",
     period: "6 months",
     color: "from-primary-50 to-sky-50 border-primary-100",
@@ -82,7 +82,7 @@ const caseStudies = [
   },
   {
     company: "RetailPro Commerce",
-    result: "4.2x ROAS",
+    result: "3.2x ROAS",
     service: "Google Ads",
     period: "3 months",
     color: "from-sky-50 to-primary-50 border-sky-100",
@@ -90,7 +90,7 @@ const caseStudies = [
   },
   {
     company: "MediCare Clinic",
-    result: "280% more leads",
+    result: "140% more leads",
     service: "Website + SEO",
     period: "4 months",
     color: "from-primary-50 to-navy-50 border-primary-100",

@@ -40,7 +40,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <div className="mb-4 w-32 h-32 relative">
               <Image
-                src="/logo.png"
+                src="/Logo.png"
                 alt="S&T Tech"
                 fill
                 className="object-contain"
@@ -53,22 +53,22 @@ export default function Footer() {
             {/* Contact Info */}
             <div className="space-y-2.5 mb-6">
               <a
-                href="mailto:hello@growthlab.agency"
+                href="mailto:info@sandttech.com"
                 className="flex items-center gap-2.5 text-sm text-navy-400 hover:text-white transition-colors group"
               >
                 <Mail className="w-4 h-4 text-primary-400 group-hover:text-primary-300 shrink-0" />
-                hello@growthlab.agency
+                info@sandttech.com
               </a>
               <a
-                href="tel:+18009growth"
+                href="tel:+18884064633"
                 className="flex items-center gap-2.5 text-sm text-navy-400 hover:text-white transition-colors group"
               >
                 <Phone className="w-4 h-4 text-primary-400 group-hover:text-primary-300 shrink-0" />
-                +1 800 GROWTH
+                +1 8884064633
               </a>
               <div className="flex items-center gap-2.5 text-sm text-navy-400">
                 <MapPin className="w-4 h-4 text-primary-400 shrink-0" />
-                New York, NY 10001
+                Manassas ,Va 20110
               </div>
             </div>
             {/* Social */}

@@ -52,7 +52,7 @@ export default function WhyUsSection() {
           className="text-center mb-16"
         >
           <Badge variant="default" className="mb-4">
-            Why GrowthLab
+            Why S&T Tech
           </Badge>
           <h2 className="text-4xl sm:text-5xl font-extrabold text-navy-900 mb-5 tracking-tight">
             Why Businesses{" "}
@@ -122,7 +122,7 @@ export default function WhyUsSection() {
           <p className="text-navy-500 text-sm">
             Join{" "}
             <span className="font-semibold text-navy-900">150+ businesses</span>{" "}
-            that have grown with GrowthLab
+            that have grown with S&T Tech
           </p>
         </motion.div>
       </div>

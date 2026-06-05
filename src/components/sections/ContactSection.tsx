@@ -40,19 +40,19 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email Us",
-    value: "hello@growthlab.agency",
-    href: "mailto:hello@growthlab.agency",
+    value: "info@sandttech.com",
+    href: "mailto:info@sandttech.com",
   },
   {
     icon: Phone,
     label: "Call Us",
-    value: "+1 800 GROWTH",
+    value: "+1 8884064633",
     href: "tel:+18009growth",
   },
   {
     icon: MapPin,
     label: "Visit Us",
-    value: "New York, NY 10001",
+    value: "Manassas ,Va 20110 ",
     href: "#",
   },
 ];
