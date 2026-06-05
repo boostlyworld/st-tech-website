@@ -71,7 +71,7 @@ export default function Navbar() {
               className="flex items-center group shrink-0"
             >
               <Image
-                src="/logo.png"
+                src="/Logo.png"
                 alt="S&T Tech"
                 width={56}
                 height={56}
